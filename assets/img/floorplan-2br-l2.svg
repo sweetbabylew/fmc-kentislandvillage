@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="858" viewBox="0 0 1050 858" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Kent Island Village two-bedroom townhome upper-level floor plan">
+<defs><style>
+    .fp{fill:#FFFFFF}
+    .w{fill:none;stroke:#2C3E2D;stroke-width:7;stroke-linecap:butt}
+    .wo{fill:none;stroke:#2C3E2D;stroke-width:10;stroke-linecap:butt}
+    .d{fill:none;stroke:#7C9880;stroke-width:4;stroke-dasharray:5 6}
+    .arc{fill:none;stroke:#5E7D63;stroke-width:3}
+    .win{fill:none;stroke:#2C3E2D;stroke-width:2.5}
+    .rm{fill:#22331F;font-family:'Helvetica Neue',Arial,sans-serif;font-size:25px;font-style:italic;text-anchor:middle}
+    .cl{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:18px;font-style:italic;text-anchor:middle}
+    .sm{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:14px;font-style:italic;text-anchor:middle}
+  </style></defs>
+<rect class="fp" x="40" y="18" width="964" height="805"/>
+<path class="w" d="M410,123 V301 M580,86 V125 M580,176 V287 M593,58 V79 M593,83 V103 M593,176 V287 M794,438 V641 M794,652 V711 M794,808 V827 M437,141 H586 M409,284 H438 M564,284 H661 M690,284 H827 M41,422 H607 M793,675 H978 M982,675 H1015"/>
+<path class="d" d="M410,26 V46 M410,397 V419 M580,29 V87 M580,127 V164 M593,26 V54 M593,107 V132 M593,144 V169 M593,406 V420 M794,542 V561 M794,628 V643 M794,698 V713 M794,810 V824 M418,141 H436 M439,141 H465 M558,141 H596 M855,141 H870 M419,284 H442 M982,284 H1008 M37,422 H56 M758,422 H777"/>
+<path class="wo" d="M40,18 H1004 V823 H1001 M789,823 H40 V18"/>
+<text class="rm" x="210" y="210">Bedroom</text>
+<text class="rm" x="790" y="135">Bathroom</text>
+<text class="rm" x="340" y="615">Bedroom</text>
+<text class="cl" x="690" y="355">Hallway</text>
+<text class="sm" x="500" y="90">Closet</text>
+<text class="sm" x="510" y="225">Closet</text>
+<text class="sm" x="890" y="745">Closet</text>
+</svg>

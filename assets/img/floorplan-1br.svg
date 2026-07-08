@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1485" viewBox="0 0 1600 1485" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Kent Island Village one-bedroom floor plan">
+<defs><style>
+    .fp{fill:#FFFFFF}
+    .w{fill:none;stroke:#2C3E2D;stroke-width:7;stroke-linecap:butt}
+    .wo{fill:none;stroke:#2C3E2D;stroke-width:10;stroke-linecap:butt}
+    .d{fill:none;stroke:#7C9880;stroke-width:4;stroke-dasharray:5 6}
+    .arc{fill:none;stroke:#5E7D63;stroke-width:3}
+    .win{fill:none;stroke:#2C3E2D;stroke-width:2.5}
+    .rm{fill:#22331F;font-family:'Helvetica Neue',Arial,sans-serif;font-size:25px;font-style:italic;text-anchor:middle}
+    .cl{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:18px;font-style:italic;text-anchor:middle}
+    .sm{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:14px;font-style:italic;text-anchor:middle}
+  </style></defs>
+<rect class="fp" x="47" y="49" width="1513" height="1387"/>
+<path class="w" d="M164,41 V56 M164,1106 V1138 M164,1270 V1305 M164,1424 V1456 M184,41 V56 M184,1108 V1184 M184,1353 V1456 M734,40 V1446 M782,41 V56 M782,285 V313 M782,480 V508 M782,663 V701 M782,1424 V1447 M818,41 V56 M818,286 V312 M818,480 V506 M818,663 V701 M818,1424 V1447 M955,41 V56 M955,286 V322 M955,480 V508 M955,674 V701 M955,1424 V1447 M1101,41 V317 M1101,481 V701 M1101,1424 V1447 M1454,42 V56 M1454,481 V508 M1454,663 V701 M1454,1424 V1447 M1468,42 V56 M1468,481 V508 M1468,663 V701 M1468,1424 V1447 M732,300 H967 M1089,300 H1111 M1550,300 H1569 M322,492 H969 M1089,492 H1569 M731,685 H826 M936,685 H1248 M1441,685 H1570 M41,1122 H61 M68,1122 H196 M724,1122 H740 M1550,1122 H1569"/>
+<path class="d" d="M164,1270 V1288 M164,1303 V1317 M966,492 H980"/>
+<path class="arc" d="M211,1436 V1315 M211,1315 A121,121 0 0 1 332,1436"/>
+<path class="wo" d="M47,49 H1560 V1436 H332 M211,1436 H47 V49"/>
+<text class="rm" x="427" y="290">Kitchen</text>
+<text class="rm" x="1318" y="274">Bathroom</text>
+<text class="rm" x="1113" y="998">Bedroom</text>
+<text class="rm" x="389" y="823">Living Room</text>
+<text class="cl" x="892" y="168">HVAC</text>
+<text class="cl" x="853" y="404">Closet</text>
+<text class="cl" x="945" y="579">Hallway</text>
+<text class="cl" x="1318" y="602">Closet</text>
+<text class="sm" x="99" y="1250">Closet</text>
+</svg>
