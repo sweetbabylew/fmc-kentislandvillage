@@ -1,24 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="969" height="1500" viewBox="0 0 969 1500" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Kent Island Village two-bedroom townhome main-level floor plan">
+<svg xmlns="http://www.w3.org/2000/svg" width="662" height="1026" viewBox="0 0 662 1026" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Kent Island Village two-bedroom townhome main-level floor plan">
 <defs><style>
     .fp{fill:#FFFFFF}
     .w{fill:none;stroke:#2C3E2D;stroke-width:7;stroke-linecap:butt}
     .wo{fill:none;stroke:#2C3E2D;stroke-width:10;stroke-linecap:butt}
-    .d{fill:none;stroke:#7C9880;stroke-width:4;stroke-dasharray:5 6}
+    .d{fill:none;stroke:#7C9880;stroke-width:2.5;stroke-dasharray:5 6}
     .arc{fill:none;stroke:#5E7D63;stroke-width:3}
     .win{fill:none;stroke:#2C3E2D;stroke-width:2.5}
+    .st{fill:none;stroke:#2C3E2D;stroke-width:2.5}
     .rm{fill:#22331F;font-family:'Helvetica Neue',Arial,sans-serif;font-size:25px;font-style:italic;text-anchor:middle}
     .cl{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:18px;font-style:italic;text-anchor:middle}
     .sm{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:14px;font-style:italic;text-anchor:middle}
   </style></defs>
-<rect class="fp" x="49" y="59" width="887" height="1401"/>
-<path class="w" d="M180,1082 V1131 M80,760 H576 M749,936 H908 M814,973 H895"/>
-<path class="d" d="M180,1076 V1094 M180,1130 V1151 M580,760 H597 M784,760 H799 M890,760 H912 M735,936 H751"/>
-<path class="win" d="M143,54 H310 M143,59 H310 M143,64 H310 M143,52 V66 M310,52 V66"/>
-<path class="win" d="M607,54 H807 M607,59 H807 M607,64 H807 M607,52 V66 M807,52 V66"/>
-<path class="arc" d="M213,1460 V1258 M213,1258 A202,202 0 0 1 415,1460"/>
-<path class="arc" d="M569,1460 V1093 M569,1093 A367,367 0 0 1 936,1460"/>
-<path class="wo" d="M49,59 H143 M310,59 H607 M807,59 H936 V1460 H936 M569,1460 H415 M213,1460 H49 V59"/>
-<text class="rm" x="457" y="486">Kitchen/Dining</text>
-<text class="rm" x="400" y="1122">Living Room</text>
-<text class="sm" x="843" y="850">Closet</text>
+<rect class="fp" x="34" y="38" width="607" height="963"/>
+<path class="w" d="M55,520 H411 M514,640 H623"/>
+<path class="d" d="M25,516 H43 M25,524 H43 M442,516 H506 M442,524 H506 M508,540 V604 M516,540 V604 M396,997 H501 M396,1005 H501"/>
+<path class="arc" d="M102,38 V129 M102,129 A91,91 0 0 0 193,38"/>
+<path class="win" d="M427,33 H542 M427,38 H542 M427,43 H542 M427,31 V45 M542,31 V45"/>
+<path class="win" d="M142,996 H283 M142,1001 H283 M142,1006 H283 M142,994 V1008 M283,994 V1008"/>
+<path class="arc" d="M494,1001 V899 M392,1001 A102,102 0 0 1 494,899"/>
+<path class="st" d="M36,518 H57 M391,518 H426 M509,518 H640"/>
+<path class="st" d="M513,525 V1001 M637,525 V1001 M513,544 H637 M513,568 H637 M513,592 H637 M513,621 H637 M513,635 H637 M513,645 H637 M513,670 H637 M513,698 H637 M513,722 H637 M513,747 H637 M513,775 H637 M513,799 H637 M513,824 H637 M513,852 H637 M513,876 H637 M513,901 H637 M513,929 H637 M513,953 H637 M513,978 H637 M513,999 H637"/>
+<path class="wo" d="M34,38 H102 M193,38 H427 M542,38 H641 V1001 H494 M392,1001 H283 M142,1001 H34 V38"/>
+<text class="rm" x="295" y="336">Kitchen/Dining</text>
+<text class="rm" x="273" y="770">Living Room</text>
+<text class="sm" x="577" y="586">Closet</text>
 </svg>
