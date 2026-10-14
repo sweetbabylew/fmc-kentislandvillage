@@ -12,10 +12,14 @@
     .sm{fill:#4A5C4D;font-family:'Helvetica Neue',Arial,sans-serif;font-size:14px;font-style:italic;text-anchor:middle}
   </style></defs>
 <rect class="fp" x="31" y="24" width="1091" height="726"/>
-<path class="w" d="M130,578 V618 M130,707 V759 M527,17 V756 M791,17 V164 M791,249 V363 M521,156 H702 M230,256 H695 M783,256 H1129 M522,356 H593 M672,356 H894 M1036,356 H1129 M24,585 H139"/>
-<path class="d" d="M787,162 V253 M795,162 V253 M126,618 V707 M134,618 V707 M678,165 H805 M678,173 H805 M576,352 H684 M576,360 H684 M889,352 H1052 M889,360 H1052 M693,145 V267 M701,145 V267"/>
-<path class="arc" d="M148,750 V660 M148,660 A90,90 0 0 1 238,750"/>
-<path class="wo" d="M31,24 H1122 V750 H238 M148,750 H31 V24"/>
+<path class="w" d="M527,156 L702,156 M230,256 L695,256 M1122,256 L791,256 L791,356 M527,356 L593,356 M672,356 L894,356 M1036,356 L1122,356 M31,585 L130,585 L130,618 M130,707 L130,750 M527,24 L527,750 M791,24 L791,164"/>
+<path class="d" d="M787,162 V253 M795,162 V253 M126,618 V707 M134,618 V707 M576,352 H684 M576,360 H684 M889,352 H1052 M889,360 H1052"/>
+<path class="arc" d="M148,750 V660 M238,750 A90,90 0 0 0 148,660"/>
+<path class="d" d="M702,152.0 H776"/>
+<path class="d" d="M702,162.0 H776"/>
+<path class="d" d="M686.0,171 V246"/>
+<path class="d" d="M698.0,171 V246"/>
+<path class="wo" d="M31,24 H1122 V750 H238 M148,750 H31 V24 H41"/>
 <text class="rm" x="300" y="145">Kitchen</text>
 <text class="cl" x="658" y="100">HVAC</text>
 <text class="cl" x="658" y="215">Closet</text>
